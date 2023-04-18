@@ -1,0 +1,10 @@
+numpy==1.24.2
+matplotlib==3.7.1
+torch==1.13.1
+torchvision==0.15.1
+pandas==1.5.3
+tqdm~=4.65.0
+scikit-learn~=1.2.2
+seaborn~=0.12.2
+Ipython~=8.11.0
+ruptures~=1.1.7
